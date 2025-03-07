@@ -17,3 +17,12 @@
 [Explicação das funções criadas na aula](https://chatgpt.com/share/67c234c0-07a4-8001-9c03-218980f57cee)
 
 [Script com as funções criadas na aula](https://github.com/profcarlos-senai/aulas_bd_tds2024/blob/main/hotel_functions.sql)
+
+
+## Aula de 06-03-2025 - Stored Procedures em PL/SQL
+
+[Function e Procedures criadas nessa aula](https://github.com/profcarlos-senai/aulas_bd_tds2024/blob/main/hotel_procedures.sql)
+
+[Explicação das funções criadas na aula](https://chatgpt.com/c/67c9ef14-e414-8001-adcc-737a2ec40482)
+
+
